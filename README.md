@@ -8,7 +8,7 @@ A fast, native macOS clipboard manager that lives in your menu bar. Everything y
 
 **[Download ClipDeck 1.0.0](https://github.com/jaintarun/clipdeck/releases/latest)** for macOS 13 or later.
 
-The app is signed and notarized by Apple, so it opens with a normal double-click, no security warnings. Unzip it, drag **ClipDeck** into your Applications folder, and launch it. On first run, grant Accessibility permission (System Settings, Privacy and Security, Accessibility) so it can paste for you.
+The app is signed and notarized by Apple, so it opens with a normal double-click, no security warnings. Open the downloaded DMG, drag **ClipDeck** onto the Applications shortcut, and launch it from Applications. On first run, grant Accessibility permission (System Settings, Privacy and Security, Accessibility) so it can paste for you.
 
 ---
 
