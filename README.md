@@ -22,6 +22,27 @@ You're not managing a database. You're scrolling through your own clipboard, and
 
 ---
 
+## How it compares
+
+ClipDeck is:
+
+- **Fast.** Native AppKit and SQLite; your whole history opens and searches in a fraction of a second.
+- **Free.** No price, no upgrade prompts.
+- **Open source.** The entire app is right here to read, build, and fork.
+- **Uncluttered.** A menu-bar icon and a keyboard-first palette, not a busy dashboard.
+- **Private.** Everything stays on your Mac: no account, no sync, no telemetry.
+
+That puts it in the same camp as [Maccy](https://maccy.org), which is also free and open source. What ClipDeck adds on top:
+
+- **Editable clips.** Fix a typo or trim a URL right in the preview, and the clip updates. Minimalist managers are usually read-only.
+- **Combine clips.** Select several text clips and *Append to new item* fuses them into one.
+- **Search inside screenshots.** Images are run through OCR, so a search matches the text *in the picture*, not just the title.
+- **A browsing window, not just a popup.** A preview pane, smart views (Today, This Week, Images), a protected **Safe** collection, and a **Trash** so nothing disappears by accident.
+
+And unlike the paid, closed-source options (**Paste**, which syncs via iCloud, and **Pastebot**, which adds transformation filters), ClipDeck is free, open, and stays entirely on your machine.
+
+---
+
 ## Summon it from anywhere
 
 Press **⌃⌥⌘V** (Control-Option-Command-V) in any app. ClipDeck pops up over whatever you're doing. Start typing to search your whole history, then hit **Return** to paste. The panel never steals focus from the app behind it, so the paste lands exactly where your cursor was.
